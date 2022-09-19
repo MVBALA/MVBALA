@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @BALAKRISHNAN  M V
+- I am completed B.E-Mechatronics Engineering (2017-2021)in Dr.MCET,Pollachi.
 - 👀 I’m interested in new technology learing & also in software developing
 - 🌱 I’m currently learning in java programing
 - 💞️ I’m looking for new software developer (as a fresher)
